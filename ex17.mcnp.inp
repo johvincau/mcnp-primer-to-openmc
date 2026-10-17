@@ -1,0 +1,30 @@
+EXAMPLES OF SURFACE TRANSFORMATIONS
+2 0 -4 3 -5
+6 0 -14 -13 : -15 41 -42
+998 0 #2 #6 -999
+999 0 999 $ outside world
+
+C Cell 2 surfaces
+3 1 PX -14
+4 1 X -14 10 0 12 14 10
+5 1 PX 14
+C
+C Cell 6 surfaces
+13 2 SX -15 70
+14 2 CX 30
+15 2 KY 75 1.2641975E-01
+41 2 PY 0
+42 2 PY 75
+C
+C Surface defining outside world
+999 so 500
+
+TR1   20  31  37  0.223954 0.358401 0.906308
+TR2   -250 -100 -65 0.675849 0.669131 0.309017
+      J J 0.918650 J J -0.246152 -1
+
+C
+IMP:N 1 1 1 0
+SDEF
+PRINT
+NPS 5000

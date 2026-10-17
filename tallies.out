@@ -1,0 +1,242 @@
+ ======================>     TALLY 1: A1:CELL 5     <=======================
+
+ Cell 3
+   Total Material
+     Flux                                 0.186049 +/- 0.0152738
+ Cell 6
+   Total Material
+     Flux                                 0.295929 +/- 0.0177629
+ Cell 9
+   Total Material
+     Flux                                 0.393682 +/- 0.0210089
+ Cell 12
+   Total Material
+     Flux                                 0.282759 +/- 0.014878
+ Cell 15
+   Total Material
+     Flux                                 0.16707 +/- 0.0122275
+ Cell 21
+   Total Material
+     Flux                                 4.66671 +/- 0.0713304
+ Cell 23
+   Total Material
+     Flux                                 8.60119 +/- 0.0698366
+ ======================>     TALLY 2: A2:CELL 6     <=======================
+
+ Cell 4
+   Total Material
+     Flux                                 0.520944 +/- 0.0255778
+ Cell 7
+   Total Material
+     Flux                                 0.82542 +/- 0.0302246
+ Cell 10
+   Total Material
+     Flux                                 1.11463 +/- 0.0448799
+ Cell 13
+   Total Material
+     Flux                                 0.846737 +/- 0.0336594
+ Cell 16
+   Total Material
+     Flux                                 0.503692 +/- 0.0248307
+ Cell 22
+   Total Material
+     Flux                                 19.4953 +/- 0.172663
+ Cell 24
+   Total Material
+     Flux                                 42.2916 +/- 0.20896
+ =============>     TALLY 3: A3:CELL 5 + CELL 6 + CELL 3     <==============
+
+ Cell 3
+   Total Material
+     Flux                                 0.186049 +/- 0.0152738
+ Cell 6
+   Total Material
+     Flux                                 0.295929 +/- 0.0177629
+ Cell 9
+   Total Material
+     Flux                                 0.393682 +/- 0.0210089
+ Cell 12
+   Total Material
+     Flux                                 0.282759 +/- 0.014878
+ Cell 15
+   Total Material
+     Flux                                 0.16707 +/- 0.0122275
+ Cell 21
+   Total Material
+     Flux                                 4.66671 +/- 0.0713304
+ Cell 23
+   Total Material
+     Flux                                 8.60119 +/- 0.0698366
+ Cell 4
+   Total Material
+     Flux                                 0.520944 +/- 0.0255778
+ Cell 7
+   Total Material
+     Flux                                 0.82542 +/- 0.0302246
+ Cell 10
+   Total Material
+     Flux                                 1.11463 +/- 0.0448799
+ Cell 13
+   Total Material
+     Flux                                 0.846737 +/- 0.0336594
+ Cell 16
+   Total Material
+     Flux                                 0.503692 +/- 0.0248307
+ Cell 22
+   Total Material
+     Flux                                 19.4953 +/- 0.172663
+ Cell 24
+   Total Material
+     Flux                                 42.2916 +/- 0.20896
+ Cell 19
+   Total Material
+     Flux                                 8.71541 +/- 0.152334
+ ===============>     TALLY 4: B12:CELL 5 OF UNIVERSE 3     <===============
+
+ Cell 21
+   Total Material
+     Flux                                 4.66671 +/- 0.0713304
+ Cell 23
+   Total Material
+     Flux                                 8.60119 +/- 0.0698366
+ ==========>     TALLY 5: C123:CELL 5 OF CELLS[7 8 9 10 11]     <===========
+
+ Cell 3
+   Total Material
+     Flux                                 0.186049 +/- 0.0152738
+ Cell 6
+   Total Material
+     Flux                                 0.295929 +/- 0.0177629
+ Cell 9
+   Total Material
+     Flux                                 0.393682 +/- 0.0210089
+ Cell 12
+   Total Material
+     Flux                                 0.282759 +/- 0.014878
+ Cell 15
+   Total Material
+     Flux                                 0.16707 +/- 0.0122275
+ ========>     TALLY 6: D123:CELLS 5 AND 6 IN LATTICE[0 -1 0]     <=========
+
+ Cell 21, Instance 0
+   Total Material
+     Flux                                 0.0588436 +/- 0.00496719
+ Cell 21, Instance 1
+   Total Material
+     Flux                                 0.105549 +/- 0.00792603
+ Cell 21, Instance 2
+   Total Material
+     Flux                                 0.0506725 +/- 0.00427483
+ Cell 21, Instance 3
+   Total Material
+     Flux                                 0.168616 +/- 0.0114344
+ Cell 21, Instance 4
+   Total Material
+     Flux                                 0.354261 +/- 0.0217719
+ Cell 21, Instance 5
+   Total Material
+     Flux                                 0.164773 +/- 0.0113903
+ Cell 21, Instance 6
+   Total Material
+     Flux                                 0.133252 +/- 0.0099258
+ Cell 21, Instance 7
+   Total Material
+     Flux                                 0.374472 +/- 0.015396
+ Cell 21, Instance 8
+   Total Material
+     Flux                                 0.141214 +/- 0.0103161
+ Cell 22, Instance 0
+   Total Material
+     Flux                                 0.273919 +/- 0.0162016
+ Cell 22, Instance 1
+   Total Material
+     Flux                                 0.486289 +/- 0.0233625
+ Cell 22, Instance 2
+   Total Material
+     Flux                                 0.237471 +/- 0.0147493
+ Cell 22, Instance 3
+   Total Material
+     Flux                                 0.765429 +/- 0.0351211
+ Cell 22, Instance 4
+   Total Material
+     Flux                                 1.54283 +/- 0.0595312
+ Cell 22, Instance 5
+   Total Material
+     Flux                                 0.721446 +/- 0.0322119
+ Cell 22, Instance 6
+   Total Material
+     Flux                                 0.588128 +/- 0.0283156
+ Cell 22, Instance 7
+   Total Material
+     Flux                                 1.29903 +/- 0.037033
+ Cell 22, Instance 8
+   Total Material
+     Flux                                 0.557303 +/- 0.0289275
+ =============>     TALLY 7: E1:SPECIFIC CELL 5 INSTANCES     <=============
+
+ Cell 21, Instance 0
+   Total Material
+     Flux                                 0.0588436 +/- 0.00496719
+ Cell 21, Instance 1
+   Total Material
+     Flux                                 0.105549 +/- 0.00792603
+ Cell 21, Instance 2
+   Total Material
+     Flux                                 0.0506725 +/- 0.00427483
+ Cell 21, Instance 3
+   Total Material
+     Flux                                 0.168616 +/- 0.0114344
+ Cell 21, Instance 4
+   Total Material
+     Flux                                 0.354261 +/- 0.0217719
+ Cell 21, Instance 5
+   Total Material
+     Flux                                 0.164773 +/- 0.0113903
+ Cell 21, Instance 6
+   Total Material
+     Flux                                 0.133252 +/- 0.0099258
+ Cell 21, Instance 7
+   Total Material
+     Flux                                 0.374472 +/- 0.015396
+ Cell 21, Instance 8
+   Total Material
+     Flux                                 0.141214 +/- 0.0103161
+ Cell 21, Instance 13
+   Total Material
+     Flux                                 0.33876 +/- 0.0201465
+ Cell 21, Instance 22
+   Total Material
+     Flux                                 0.38561 +/- 0.0217455
+ ==============>     TALLY 8: E2:SINGLE CELL 5 INSTANCE     <===============
+
+ Cell 21, Instance 4
+   Total Material
+     Flux                                 0.354261 +/- 0.0217719
+ ============>     TALLY 9: E3: SPECIFIC LATTICE UNIVERSE     <=============
+
+ Universe 8
+   Total Material
+     Flux                                 8.71541 +/- 0.152334
+ ===============>     TALLY 10: F:CELL 5 IN UNIVERSE 3     <================
+
+ Cell 3
+   Total Material
+     Flux                                 0.186049 +/- 0.0152738
+ Cell 6
+   Total Material
+     Flux                                 0.295929 +/- 0.0177629
+ Cell 9
+   Total Material
+     Flux                                 0.393682 +/- 0.0210089
+ Cell 12
+   Total Material
+     Flux                                 0.282759 +/- 0.014878
+ Cell 15
+   Total Material
+     Flux                                 0.16707 +/- 0.0122275
+ Cell 21
+   Total Material
+     Flux                                 4.66671 +/- 0.0713304
+ Cell 23
+   Total Material
+     Flux                                 8.60119 +/- 0.0698366
