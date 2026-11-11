@@ -17,4 +17,15 @@ Examples:
 13
 
 14  (look into how mcnp does vol calcs)
-15x (rotation matrix does not use degrees)
+15  (rotation matrix does not use degrees)
+16x (why was openmc able to accept a sympy object? it broke the xml) 
+    (up vector is not aligned; behaves strangely)
+    (despite best efforts, could not get Z->X' tilt correct for case 1)
+    (need to figure out case 2?)
+    
+17 plot_settings.pkl is problematic? also, unit management for tallies? 
+   use surfacefilter + flux score. openmc-plotter labels as particle-cm/source. but it is actually particle/source. 
+   source def complete
+18 (missing source definitions)
+   source def and tally complete
+   
